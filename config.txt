@@ -1,0 +1,3 @@
+server_ip=192.168.135.157
+server_port=6000
+db_connection=server=localhost;user=root;password=;database=anpr
